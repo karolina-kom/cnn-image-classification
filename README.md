@@ -1,2 +1,24 @@
 # cnn-image-classification
-Convolutional Neural Networks for Image Classification
+Code from 4th year project on Convolutional Neural Networks for Image Classification
+
+![Iris_2D](https://user-images.githubusercontent.com/63045938/102913828-3d967680-4477-11eb-8a9a-f9e06e6f4cfe.jpg)
+
+## Language
+Python (in Jupyter Notebook)
+
+## Dataset Used
+TensorFlow **tf_flowers**  dataset
+
+@ONLINE {tfflowers,
+author = "The TensorFlow Team",
+title = "Flowers",
+month = "jan",
+year = "2019",
+url = "http://download.tensorflow.org/example_images/flower_photos.tgz"}
+
+## Date Completed
+Feb 2023
+
+## References
+- https://www.kaggle.com/code/rajmehra03/flower-recognition-cnn-keras
+- https://www.tensorflow.org/tutorials/images/classification
