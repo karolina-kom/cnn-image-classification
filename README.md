@@ -5,9 +5,7 @@ Code from 4th year project on Convolutional Neural Networks for Image Classifica
 Python (in Jupyter Notebook)
 
 ## Dataset Used
-TensorFlow **tf_flowers**  dataset
-
-@ONLINE {tfflowers,
+TensorFlow **tf_flowers**  dataset: @ONLINE {tfflowers,
 author = "The TensorFlow Team",
 title = "Flowers",
 month = "jan",
