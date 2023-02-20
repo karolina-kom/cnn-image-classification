@@ -2,15 +2,15 @@
 Code from 4th year project on Convolutional Neural Networks for Image Classification
 
 ## Language
-Python (in Jupyter Notebook)
+Python (in Google Colab Notebook)
 
 ## Dataset Used
-TensorFlow **tf_flowers**  dataset: @ONLINE {tfflowers,
+**TensorFlow tf_flowers dataset** (@ONLINE {tfflowers,
 author = "The TensorFlow Team",
 title = "Flowers",
 month = "jan",
 year = "2019",
-url = "http://download.tensorflow.org/example_images/flower_photos.tgz"}
+url = "http://download.tensorflow.org/example_images/flower_photos.tgz"})
 
 ## Date Completed
 Feb 2023
