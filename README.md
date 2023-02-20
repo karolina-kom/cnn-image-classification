@@ -2,7 +2,7 @@
 Code from 4th year project on Convolutional Neural Networks for Image Classification
 
 ## Language
-Python (in Google Colab Notebook)
+Python (in Jupyter Notebook)
 
 ## Dataset Used
 **TensorFlow tf_flowers dataset** (@ONLINE {tfflowers,
