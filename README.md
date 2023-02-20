@@ -16,5 +16,4 @@ url = "http://download.tensorflow.org/example_images/flower_photos.tgz"})
 Feb 2023
 
 ## References
-- https://www.kaggle.com/code/rajmehra03/flower-recognition-cnn-keras
 - https://www.tensorflow.org/tutorials/images/classification
