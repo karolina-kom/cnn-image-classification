@@ -1,10 +1,10 @@
 # cnn-image-classification
 Code from Image Classification Using Convolutional Neural Networks Masters Project
 
-## Language
-Python (in Jupyter Notebook)
+## Languages/Environments
+Python (Jupyter Notebook)
 
-## Dataset Used
+## Datasets
 **TensorFlow tf_flowers dataset** (@ONLINE {tfflowers,
 author = "The TensorFlow Team",
 title = "Flowers",
@@ -16,4 +16,4 @@ url = "http://download.tensorflow.org/example_images/flower_photos.tgz"})
 Feb 2023
 
 ## References
-- https://www.tensorflow.org/tutorials/images/classification
+- [TensorFlow Image Classification Tutorial](https://www.tensorflow.org/tutorials/images/classification)
