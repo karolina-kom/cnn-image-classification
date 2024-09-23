@@ -5,15 +5,10 @@ Code from Image Classification Using Convolutional Neural Networks Masters Proje
 Python (Jupyter Notebook)
 
 ## Datasets
-**TensorFlow tf_flowers dataset** (@ONLINE {tfflowers,
-author = "The TensorFlow Team",
-title = "Flowers",
-month = "jan",
-year = "2019",
-url = "http://download.tensorflow.org/example_images/flower_photos.tgz"})
+[tf_flowers dataset](https://www.tensorflow.org/datasets/catalog/tf_flowers)
 
 ## Date Completed
 Feb 2023
 
 ## References
-- [TensorFlow Image Classification Tutorial](https://www.tensorflow.org/tutorials/images/classification)
+[TensorFlow Image Classification Tutorial](https://www.tensorflow.org/tutorials/images/classification)
