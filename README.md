@@ -1,5 +1,5 @@
 # cnn-image-classification
-Code from 4th year project on Convolutional Neural Networks for Image Classification
+Code from Image Classification Using Convolutional Neural Networks Masters Project
 
 ## Language
 Python (in Jupyter Notebook)
